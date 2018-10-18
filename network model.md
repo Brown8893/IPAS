@@ -1,4 +1,4 @@
-# network model
+# Network model
 
 Layer_Features_Application protocol
 
