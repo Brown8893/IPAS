@@ -14,8 +14,14 @@ Layer_Features_Application protocol
 >* 連線
 
 ### Layer-4:Transport
->* 尋址、定址、路由
+>* port
 
 ### Layer-3:Network
->* MAC address
->*
+>* IP address
+>* 尋址、定址、路由 
+
+### Layer-2:Data link
+>* MAC adress、switch(VLAV)
+
+### Layer-1:Physical
+>* 網卡、Hub
