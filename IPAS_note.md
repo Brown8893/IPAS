@@ -248,6 +248,7 @@ ISO 27001/ISMS、風險管理（取得平衡）、控制項、政策（最大的
 # 四、事故管理與營運持續：@事件與事故管理、@備援與營運持續
 
 
-```
+
 ```
 https://drive.google.com/open?id=1-HgyMy_-HZSgF9tykLswZUF1lN_uDPx5
+```
