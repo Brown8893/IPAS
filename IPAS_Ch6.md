@@ -59,4 +59,12 @@ ARP Spoofing是指攻擊者取得區域網路上的資料封包甚至篡改封�
 ```
 C.網路層_Smurf Attack：藉由ICMP封包塞爆受害者網路頻寬的阻斷服務攻擊
 ```
->* 
+>* 攻擊手法：
+>* 攻擊者(Attacker)偽冒受害者IP(Victim)發送大量Echo Request給B網段的Broadcast IP位址(B.255或B.0)
+>* B網段所有電腦收到Echo Request封包，都回覆Echo Reply封包給Victim
+>* 導致Victim端頻寬被大量的Echo Reply封包所占用
+>* 防護建議：
+>* 在防火牆或路由器上阻擋Network/Broadcast IP的傳送
+```
+C.網路層_Ping of Death：屬於一種阻斷服務攻擊，只要一個Ping封包就讓作業系統當機
+```
