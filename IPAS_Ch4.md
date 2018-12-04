@@ -279,3 +279,13 @@ a.開經驗學習會議
 >* 小組成員瞭解現有BCP內容
 >* 小組成員可執行BCP的職責
 >* BCP與現況需求符合
+# 12.重要字詞與定義：
+>* 營運衝擊分析(BIA)
+>* RPO- Recovery Point Objective
+>* 備份(Full Diff. Incr.)
+>* 風險評鑑
+>* 備援中心(冷、暖、熱、鏡)
+>* RTO- Recovery Time Objective
+>* 營運持續策略
+>* 營運持續計畫(BCP)
+>* MTPD-Max. Tolerable Period of Disruption
